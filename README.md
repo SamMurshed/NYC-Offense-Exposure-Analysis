@@ -8,9 +8,6 @@ This dashboard analyzes a cleaned subset of NYPD complaint data (94 records) to 
 
 **Key Finding:** Manhattan experiences 3.5x more offense incidents than Staten Island, despite similar offense type distributions across all boroughs—highlighting that exposure intensity, not offense composition, drives spatial variation.
 
-## Demo
-Deployment Link to See It Live: https://claude.ai/public/artifacts/e84b23ac-5de9-4521-9000-5374fa85b17f 
-
 ### Dashboard Walkthrough
 ![DBZGIF](https://github.com/user-attachments/assets/42796530-3581-4245-80a2-7377383b9e48)
 
